@@ -1,0 +1,2 @@
+## AssociateProfitSplitter contract. 
+This will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
